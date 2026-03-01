@@ -1,4 +1,4 @@
-## Hi, I'm @ericksollo 👋
+## Hi, I'm Erick Sollo 👋
 
 ## 🚀 About Me
 - 💼 I'm a Medical Doctor interested in Data Science.
